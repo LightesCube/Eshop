@@ -28,4 +28,5 @@ public class Cliente {
 	public void setRs(String aRs) {
 		this._rs = aRs;
 	}
+
 }
